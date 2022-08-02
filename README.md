@@ -4,7 +4,7 @@ Udacity Data Analyst nanodegree program
 
 Project 4: Wrangle and Analyze Data - WeRateDogs twitter account
 
-[Click to preview report](https://cdn.rawgit.com/latinacode/Wrangle-and-Analyze-Data/f3a9b664/act_report.pdf)
+[Click to preview report](https://github.com/espower1986/wrangle-and-analyse-data/blob/main/act_report.pdf)
 
 # Project Overview
 ## Introduction
